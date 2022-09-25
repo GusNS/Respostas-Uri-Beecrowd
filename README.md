@@ -1,4 +1,4 @@
-# ![logo beecrowd](\icons\logo-beecrowd.png)Respostas de questões do **Beecrowd**
+# ![logo beecrowd](https://github.com/GusNS/Respostas-Uri-Beecrowd/blob/main/icons/logo-beecrowd.png)Respostas de questões do **Beecrowd**
 
 [**Beecrowd**](https://www.beecrowd.com.br/judge/pt/login)
 
