@@ -1,4 +1,4 @@
-# ![logo beecrowd](C:\Users\gug4n\Desktop\proGithub\logo-beecrowd.png)Respostas de questões do **Beecrowd**
+# ![logo beecrowd](\icons\logo-beecrowd.png)Respostas de questões do **Beecrowd**
 
 [**Beecrowd**](https://www.beecrowd.com.br/judge/pt/login)
 
@@ -102,5 +102,4 @@ _obs.: só é possível o acesso com login_
 - [2862 - Inseto!](https://www.beecrowd.com.br/judge/pt/problems/view/2862)
 
 - [3047 - A idade de Dona Mônica](https://www.beecrowd.com.br/judge/pt/problems/view/3047)
-
 
