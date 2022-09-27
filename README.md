@@ -103,3 +103,100 @@ _obs.: só é possível o acesso com login_
 
 - [3047 - A idade de Dona Mônica](https://www.beecrowd.com.br/judge/pt/problems/view/3047)
 
+### Códigos no Replit
+
+- [1002 - Área do Círculo]
+
+- [1003 - Soma Simples]
+
+- [1004 - Produto Simples]
+
+- [1005 - Média 1]
+
+- [1006 - Média 2]
+
+- [1007 - Diferença]
+
+- [1008 - Salário]
+
+- [1009 - Salário com Bônus]
+
+- [1010 - Cálculo Simples]
+
+- [1011 - Esfera]
+
+- [1012 - Área]
+
+- [1013 - O Maior]
+
+- [1014 - Consumo]
+
+- [1015 - Distância Entre Dois Pontos]
+
+- [1016 - Distância]
+
+- [1017 - Gasto de Combustível]
+
+- [1018 - Cédulas]
+
+- [1019 - Conversão de Tempo]
+
+- [1020 - Idade em Dias]
+
+- [1035 - Teste de Seleção]
+
+- [1038 - Lanche]
+
+- [1042 - Sort Simples]
+
+- [1043 - Triângulo]
+
+- [1044 - Múltiplos]
+
+- [1048 - Aumento de Salário]
+
+- [1049 - Animal]
+
+- [1050 - DDD]
+
+- [1051 - Imposto de Renda]
+
+- [1052 - Mês]
+
+- [1059 - Números Pares]
+
+- [1060 - Números Positivos]
+
+- [1061 - Tempo de um evento]
+
+- [1064 - Positivos e Média]
+
+- [1065 - Pares entre Cinco Números]
+
+- [1066 - Pares, Ímpares, Positivos e Negativos]
+
+- [1067 - Números Ímpares]
+
+- [1070 - Seis Números Ímpares]
+
+- [1073 - Quadrado de Pares]
+
+- [1074 - Par ou Ímpar]
+
+- [1075 - Resto 2]
+
+- [1078 - Tabuada]
+
+- [1080 - Maior e Posição]
+
+- [1095 - Sequencia IJ 1]
+
+- [1096_7_8 - Sequencia IJ 4]
+
+- [1114 - Senha Fixa]
+
+- [2540 - Impeachment do Líder]
+
+- [2862 - Inseto!]
+
+- [3047 - A idade de Dona Mônica]
