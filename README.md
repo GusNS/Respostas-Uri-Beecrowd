@@ -105,98 +105,97 @@ _obs.: só é possível o acesso com login_
 
 ### Códigos no Replit
 
-- [1002 - Área do Círculo]
+- [1002 - Área do Círculo](https://replit.com/@G4nSanct0/1002#main.c)
 
-- [1003 - Soma Simples]
+- [1003 - Soma Simples](https://replit.com/@G4nSanct0/1003)
 
-- [1004 - Produto Simples]
+- [1004 - Produto Simples](https://replit.com/@G4nSanct0/1004)
 
-- [1005 - Média 1]
+- [1005 - Média 1](https://replit.com/@G4nSanct0/1005)
 
-- [1006 - Média 2]
+- [1006 - Média 2](https://replit.com/@G4nSanct0/1006)
 
-- [1007 - Diferença]
+- [1007 - Diferença](https://replit.com/@G4nSanct0/1007)
 
-- [1008 - Salário]
+- [1008 - Salário](https://replit.com/@G4nSanct0/1008)
+- [1009 - Salário com Bônus](https://replit.com/@G4nSanct0/1009)
 
-- [1009 - Salário com Bônus]
+- [1010 - Cálculo Simples](https://replit.com/@G4nSanct0/1010)
 
-- [1010 - Cálculo Simples]
+- [1011 - Esfera](https://replit.com/@G4nSanct0/1011)
 
-- [1011 - Esfera]
+- [1012 - Área](https://replit.com/@G4nSanct0/1012)
 
-- [1012 - Área]
+- [1013 - O Maior](https://replit.com/@G4nSanct0/1013lista)
 
-- [1013 - O Maior]
+- [1014 - Consumo](https://replit.com/@G4nSanct0/1014)
 
-- [1014 - Consumo]
+- [1015 - Distância Entre Dois Pontos](https://replit.com/@G4nSanct0/1015)
 
-- [1015 - Distância Entre Dois Pontos]
+- [1016 - Distância](https://replit.com/@G4nSanct0/1016)
 
-- [1016 - Distância]
+- [1017 - Gasto de Combustível](https://replit.com/@G4nSanct0/1017)
 
-- [1017 - Gasto de Combustível]
+- [1018 - Cédulas](https://replit.com/@G4nSanct0/1018)
 
-- [1018 - Cédulas]
+- [1019 - Conversão de Tempo](https://replit.com/@G4nSanct0/1019)
 
-- [1019 - Conversão de Tempo]
+- [1020 - Idade em Dias](https://replit.com/@G4nSanct0/1020)
 
-- [1020 - Idade em Dias]
+- [1035 - Teste de Seleção](https://replit.com/@G4nSanct0/1035)
 
-- [1035 - Teste de Seleção]
+- [1038 - Lanche](https://replit.com/@G4nSanct0/1038)
 
-- [1038 - Lanche]
+- [1042 - Sort Simples](https://replit.com/@G4nSanct0/1042)
 
-- [1042 - Sort Simples]
+- [1043 - Triângulo](https://replit.com/@G4nSanct0/1043)
 
-- [1043 - Triângulo]
+- [1044 - Múltiplos](https://replit.com/@G4nSanct0/1044)
 
-- [1044 - Múltiplos]
+- [1048 - Aumento de Salário](https://replit.com/@G4nSanct0/1048c)
 
-- [1048 - Aumento de Salário]
+- [1049 - Animal](https://replit.com/@G4nSanct0/1049c)
 
-- [1049 - Animal]
+- [1050 - DDD](https://replit.com/@G4nSanct0/1050c)
 
-- [1050 - DDD]
+- [1051 - Imposto de Renda](https://replit.com/@G4nSanct0/1051c)
 
-- [1051 - Imposto de Renda]
+- [1052 - Mês](https://replit.com/@G4nSanct0/1052c)
 
-- [1052 - Mês]
+- [1059 - Números Pares](https://replit.com/@G4nSanct0/1059)
 
-- [1059 - Números Pares]
+- [1060 - Números Positivos](https://replit.com/@G4nSanct0/1060)
 
-- [1060 - Números Positivos]
+- [1061 - Tempo de um evento](https://replit.com/@G4nSanct0/1061)
 
-- [1061 - Tempo de um evento]
+- [1064 - Positivos e Média](https://replit.com/@G4nSanct0/1064c)
 
-- [1064 - Positivos e Média]
+- [1065 - Pares entre Cinco Números](https://replit.com/@G4nSanct0/1065lista)
 
-- [1065 - Pares entre Cinco Números]
+- [1066 - Pares, Ímpares, Positivos e Negativos](https://replit.com/@G4nSanct0/1066)
 
-- [1066 - Pares, Ímpares, Positivos e Negativos]
+- [1067 - Números Ímpares](https://replit.com/@G4nSanct0/1067)
 
-- [1067 - Números Ímpares]
+- [1070 - Seis Números Ímpares](https://replit.com/@G4nSanct0/1070)
 
-- [1070 - Seis Números Ímpares]
+- [1073 - Quadrado de Pares](https://replit.com/@G4nSanct0/1073c)
 
-- [1073 - Quadrado de Pares]
+- [1074 - Par ou Ímpar](https://replit.com/@G4nSanct0/1074c)
 
-- [1074 - Par ou Ímpar]
+- [1075 - Resto 2](https://replit.com/@G4nSanct0/1075c)
 
-- [1075 - Resto 2]
+- [1078 - Tabuada](https://replit.com/@G4nSanct0/1078c)
 
-- [1078 - Tabuada]
+- [1080 - Maior e Posição](https://replit.com/@G4nSanct0/1080c)
 
-- [1080 - Maior e Posição]
+- [1095 - Sequencia IJ 1](https://replit.com/@G4nSanct0/1095c)
 
-- [1095 - Sequencia IJ 1]
+- [1096_7_8 - Sequencia IJ 4](https://replit.com/@G4nSanct0/109678c)
 
-- [1096_7_8 - Sequencia IJ 4]
+- [1114 - Senha Fixa](https://replit.com/@G4nSanct0/1114c)
 
-- [1114 - Senha Fixa]
+- [2540 - Impeachment do Líder](https://replit.com/@G4nSanct0/2540c)
 
-- [2540 - Impeachment do Líder]
+- [2862 - Inseto!](https://replit.com/@G4nSanct0/2862c)
 
-- [2862 - Inseto!]
-
-- [3047 - A idade de Dona Mônica]
+- [3047 - A idade de Dona Mônica](https://replit.com/@G4nSanct0/3047c)
