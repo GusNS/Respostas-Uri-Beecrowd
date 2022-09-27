@@ -103,6 +103,8 @@ _obs.: só é possível o acesso com login_
 
 - [3047 - A idade de Dona Mônica](https://www.beecrowd.com.br/judge/pt/problems/view/3047)
 
+<br>
+
 ### Códigos no Replit
 
 - [1002 - Área do Círculo](https://replit.com/@G4nSanct0/1002#main.c)
